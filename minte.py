@@ -1,0 +1,1 @@
+print("minte endet nesh")
